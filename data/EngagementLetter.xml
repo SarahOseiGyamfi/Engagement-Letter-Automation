@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ClientData xmlns="ContentControlMapping">
+	<ClientName></ClientName>
+	<ClientAddress></ClientAddress>
+	<MatterDescription></MatterDescription>
+	<EffectiveDate></EffectiveDate>
+	<FeeBasis></FeeBasis>
+	<FixedFee></FixedFee>
+	<HourlyPartner></HourlyPartner>
+	<HourlyAssociate></HourlyAssociate>
+	<HourlyParalegal></HourlyParalegal>
+	<RetainerFee></RetainerFee>
+	<RetainerFrequency></RetainerFrequency>
+	<RetainerRollover></RetainerRollover>
+</ClientData>

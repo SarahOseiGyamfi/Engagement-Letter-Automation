@@ -1,0 +1,13 @@
+# Microsoft Office temporary / lock files
+~$*
+*.tmp
+
+# Local/demo video files (hosted externally)
+*.mp4
+*.mov
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

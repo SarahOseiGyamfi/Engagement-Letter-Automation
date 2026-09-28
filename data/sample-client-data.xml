@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ClientData xmlns="ContentControlMapping">
+  <ClientName>John Doe</ClientName>
+  <ClientAddress>123 Littletown Avenue</ClientAddress>
+  <MatterDescription>Legal Advice</MatterDescription>
+  <EffectiveDate>2026-02-01T00:00:00</EffectiveDate>
+  <FeeBasis>Fixed</FeeBasis>
+  <FixedFee>90</FixedFee>
+  <HourlyPartner>399</HourlyPartner>
+  <HourlyAssociate></HourlyAssociate>
+  <HourlyParalegal></HourlyParalegal>
+  <RetainerFee></RetainerFee>
+  <RetainerFrequency></RetainerFrequency>
+  <RetainerRollover></RetainerRollover>
+</ClientData>
